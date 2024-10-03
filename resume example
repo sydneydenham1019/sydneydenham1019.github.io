@@ -1,0 +1,49 @@
+<html>
+<head>
+<style>
+</style>
+</head>
+
+<body>
+  <header> <center>Miss. Great Pyrenees </center></header>
+<h3><center>56 Lounging Way Relaxation, 01875</center></h3>
+
+<aside>
+<img src="https://images.unsplash.com/photo-1711316421116-c06bfb9e16d0?q=80&w=2804&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Great Pyrenees" height=500 width=400 <br>
+</aside>
+<section id="summary">
+<h2>What I Have to (Wo)offer</h2>
+Specializing in relaxation, I offer a unique perspective into the world's best naps.
+  </section>
+<section id="experience">
+<h2>Professional Experience</h2>
+Napper in Puppy School, 2012<br>
+Assistant, Not Walking With My Hooman, Yesterday (and everyday)
+  </section>
+<section id="education">
+<h2>Education</h2>
+Petsmart, 2012: Certificate in Puppy Education <br>
+  Petsmart, 2013: Certificate in Intermediate Education
+  </section>
+<section id="awards">
+  <h2>Awards</h2>
+Host, Longest Nap, 2015 <br>
+  Assistant, Staring at Neighbors on Walks, 2016 <br>
+  Host, Eating a Whole Piece of Chicken, 2017
+  </section>
+  <section id="skills">
+<h2>Skills</h2>
+<h3>On Command</h3>
+Sleep <br>
+    Rest
+<h3>Need to Be Told</h3>
+Sit <br>
+    Come <br>
+  </section>
+  <section id="footer">
+  <p>
+  <footer><center>
+    Email me: missgp@catchmenapping.com </center>
+  </footer>
+</body>
+</html>
