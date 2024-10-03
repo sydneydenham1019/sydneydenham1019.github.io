@@ -1,0 +1,34 @@
+header
+{background-color: #ffe6a7;
+  font-family: "copperplate", fantasy;
+  font-size: 2.5em;
+}
+aside {
+  width: 40%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: left;
+}
+#awards {
+  width: 40%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: left;
+}
+#skills {
+  width: 40%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: center;
+}
+#footer
+{background-color: #ffe6a7;
+  font-family: "copperplate", fantasy;
+  font-size: 1em;
+}
